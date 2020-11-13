@@ -29,7 +29,5 @@ Este repositório tem como fim testar os candidatos para vaga dev. Flutter na em
 Todo o layout está hospedado no Zeplin neste link: 
 https://scene.zeplin.io/project/5b48f7870acff10844983114
 
-*Acesse as telas, clique nos elementos e veja as epecificações no lado direito da tela
-
 ## Envio do teste
 1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter** para Juliano Baladão [jbaladao@gendo.com.br](mailto:jbaladao@gendo.com.br)
