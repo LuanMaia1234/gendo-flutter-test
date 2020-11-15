@@ -1,7 +1,6 @@
 # Instalação
 1. Primeiro você precisa instalar o Dart e Flutter
 https://dart.dev/get-dart
-
 https://flutter.dev/docs/get-started/install/windows
 
 2. Faça o clone ou download desse projeto.
