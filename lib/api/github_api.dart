@@ -3,8 +3,8 @@ import 'package:http/http.dart' as http;
 
 //Classe para fazer requisição para api GitHub
 class GitHubApi {
-  final gitUrl = 'https://api.github.com';
-  final token = 'd9b03aee3c71982ec4d431b629d366ba46c05db9';
+  final String gitUrl = 'https://api.github.com';
+  final String token = 'b496eb0d70d4df9179d4e173da7a1de94f344133';
 
   //Traz os repositórios do usuário
   getRepositories({String search}) async {
